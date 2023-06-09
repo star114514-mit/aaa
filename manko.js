@@ -14,7 +14,7 @@
             arguments: {
               URL: {
                 type: Scratch.ArgumentType.STRING,
-                defaultValue: 'https://extensions.turbowarp.org/hello.txt'
+                defaultValue: 'https://api.scratch.mit.edu/studios/32086765/comments'
               }
             }
           }
